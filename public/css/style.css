@@ -1,0 +1,8 @@
+#search-area{
+    text-align: center;
+    padding: 20px;
+}
+
+#down-inp::placeholder{
+    color: white;
+}
